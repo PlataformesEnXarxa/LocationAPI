@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location API</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="txtnoLocation">Don\'t get your location</string>
+    <string name="noLocationDetect">No location detected. Make sure location is enabled on the device.</string>
+    <string name="locChange">Location changed!</string>
+
+</resources>
